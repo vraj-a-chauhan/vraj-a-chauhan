@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/b7634f0d-b306-41fc-99dc-e5291058d441/thumbnail" >
+</p>
 <!--
 **vraj-a-chauhan/vraj-a-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
